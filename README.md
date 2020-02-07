@@ -1,4 +1,4 @@
-# FDM Informatika I pratybos
+# FDM Informatika II pratybos
 ### Užduotys
  - 1 užduotis (max 1.25 balo) atsiskaityti iki 2020-03-06.
  - 2 užduotis (max 1.25 balo) atsiskaityti iki 2020-04-03.
