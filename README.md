@@ -49,6 +49,15 @@ ln -s ./VSCode-linux-x64/bin/code ~/Desktop/VS_Code   # Sukuria VS Code nuorodą
 
 ![Visual instructions how to intall Python extension](https://raw.githubusercontent.com/albertas/fdm2/master/images/disable_telemetry_for_vs_code.gif)
 
+4. Nusiklonuokite užduočių failus, terminale įvykdydami:
+
+```
+git clone https://github.com/albertas/fdm2 ~/Desktop/info2
+```
+
+5. Atsidarykite užduočių failą, naudodami VS Code:
+
+![Open task file using VS Code](https://raw.githubusercontent.com/albertas/fdm2/master/images/open_task_file.gif)
 
 <a name="asmeniniai_kompiuteriai"/>
 
@@ -65,3 +74,13 @@ ln -s ./VSCode-linux-x64/bin/code ~/Desktop/VS_Code   # Sukuria VS Code nuorodą
 4. Išjunkite duomenų siuntimą Microsoft korporacijai:
 
 ![Visual instructions how to intall Python extension](https://raw.githubusercontent.com/albertas/fdm2/master/images/disable_telemetry_for_vs_code.gif)
+
+5. Nusiklonuokite užduočių failus, Git Bash terminale įvykdydami:
+
+```
+git clone https://github.com/albertas/fdm2 ~/Desktop/info2
+```
+
+6. Atsidarykite užduočių failą, naudodami VS Code:
+
+![Open task file using VS Code](https://raw.githubusercontent.com/albertas/fdm2/master/images/open_task_file.gif)
