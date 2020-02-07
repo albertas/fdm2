@@ -21,7 +21,7 @@ Galima gauti papildomą 1 balą už pristatymą pratybų metu.
 4. Prie MIF kompiuterio galite prisijungti naudodami MIF paskyrą. Prisijungdami pasirinkite:  **linux (vnc)**
 
 ### MS Visual Studio Code įsidiegimas
-1. Įsidiekite [MS Visual Studio Code](https://code.visualstudio.com/Download) terminale įvykdydami šias komandas:
+1. Terminale įvykdydami šias komandas įsidiegsite [MS Visual Studio Code](https://code.visualstudio.com/Download):
 
 ```
 cd ~/Atsisiuntimai    # VS Code failai bus saugomi čia
