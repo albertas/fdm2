@@ -5,13 +5,13 @@
  - 3 užduotis (max 1.25 balo) atsiskaityti iki 2020-05-01.
  - 4 užduotis (max 1.25 balo) atsiskaityti iki 2020-05-22.
 
+Maksimalus užduoties balas mažinamas po 10% už kiekvieną pavėluotą savaitę atsiskaityti.
+
 Galima gauti papildomą 1 balą už pristatymą pratybų metu. 
  - Pristatymas turi būti susijęs su Python programavimo kalba.
  - Tai gali būti Jūsų asmeninio projekto pristatymas.
  - Tai gali būti Python bibliotekų palyginimas
  - Ar Jums aktulios Python bibliotekos funkcionalumo pristatymas.  
-
-Maksimalus užduoties balas mažinamas po 10% už kiekvieną pavėluotą savaitę atsiskaityti.
 
 ### Prisijungimas prie MIF kompiuterio
 1. Turite sužinoti savo studento pažymėjimo numerį lsp.lt svetainėje, jis taip pat pateiktas ant LSP pažymėjimo.
