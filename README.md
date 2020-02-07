@@ -1,8 +1,4 @@
 # FDM Informatika II pratybos
-##### Turinys
-<a name="užduotys">Užduotys</a>
-
-
 ### [Užduotys](#užduotys)
  - 1 užduotis (max 1.25 balo) atsiskaityti iki 2020-03-06.
  - 2 užduotis (max 1.25 balo) atsiskaityti iki 2020-04-03.
