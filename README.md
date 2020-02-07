@@ -24,10 +24,10 @@ Galima gauti papildomą 1 balą už pristatymą pratybų metu.
 2. Įsidiekite [MS Visual Studio Code](https://code.visualstudio.com/Download) terminale įvykdidami šias komandas:
 
 ```
-cd ~/Atsisiuntimai
-wget https://github.com/microsoft/vscode/archive/1.42.0.zip
-unzip 1.42.0.zip
-ln -s 1.42.0/bin/code ~/Desktop/VS_Code
+cd ~/Atsisiuntimai    # VS Code failai bus saugomi čia
+wget https://az764295.vo.msecnd.net/stable/ae08d5460b5a45169385ff3fd44208f431992451/code-stable-1580986866.tar.gz
+tar -xzvf code-stable-1580986866.tar.gz    # Išskleidžia atsisiųstą failą
+ln -s ./VSCode-linux-x64/bin/code ~/Desktop/VS_Code   # Sukuria VS Code nuorodą ant Desktop'o
 ```
 
 3. Įsidiekite Python plėtinį, skirtą MS Visual Studio Code:
