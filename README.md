@@ -1,11 +1,12 @@
 # FDM Informatika II pratybos
-#### Turinys
+##### Turinys
+
 [Užduotys](#užduotys)  
 [Užduočių atlikimas naudojant MIF kompiuterius](#mif_kompiuteriai)
 [Užduočių atlikimas naudojant asmeninius kompiuterius (Windows)](#asmeniniai_kompiuteriai)
 
-
 <a name="užduotys"/>
+
 ### Užduotys
  - 1 užduotis (max 1.25 balo) atsiskaityti iki 2020-03-06.
  - 2 užduotis (max 1.25 balo) atsiskaityti iki 2020-04-03.
@@ -21,6 +22,7 @@ Galima gauti papildomą 1 balą už pristatymą pratybų metu.
  - Ar Jums aktulios Python bibliotekos funkcionalumo pristatymas.  
 
 <a name="mif_kompiuteriai"/>
+
 ## Užduočių atlikimas naudojant MIF kompiuterius
 ### Prisijungimas prie MIF kompiuterio
 1. Sužinokite savo studento pažymėjimo numerį [lsp.lt](https://lsp.lt) svetainėje, jis taip pat pateiktas ant Jūsų LSP pažymėjimo.
@@ -49,14 +51,13 @@ ln -s ./VSCode-linux-x64/bin/code ~/Desktop/VS_Code   # Sukuria VS Code nuorodą
 
 
 <a name="asmeniniai_kompiuteriai"/>
+
 ## Užduočių atlikimas naudojant asmeninius kompiuterius (Windows)
 1. Įsidiekite [Git bash](https://gitforwindows.org/), atsiųsdami ir įvykdydami
-    [Windows Git bash vykdomąjį failą](https://github.com/git-for-windows/git/releases/tag/v2.25.0.windows.1),
-    kuris pateiktas puslapio apačioje `assets` skiltyje. Git bash yra Linux Terminalo atitikmuo.
-
+   [Windows Git bash vykdomąjį failą](https://github.com/git-for-windows/git/releases/tag/v2.25.0.windows.1),
+   kuris pateiktas puslapio apačioje `assets` skiltyje. Git bash yra Linux Terminalo atitikmuo.
 2. Įsidiekite [MS Visual Studio Code](https://code.visualstudio.com),
    atsisiųsdami [Windows VS Code vykdomąjį failą](https://code.visualstudio.com/Download) ir jį paleisdami.
-
 3. Įsidiekite `Python` plėtinį, skirtą MS Visual Studio Code:
 
 ![Visual instructions how to intall Python extension](https://raw.githubusercontent.com/albertas/fdm2/master/images/install_python_extension_for_vs_code.gif)
