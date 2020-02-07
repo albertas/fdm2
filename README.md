@@ -40,8 +40,9 @@ ln -s ./VSCode-linux-x64/bin/code ~/Desktop/VS_Code   # Sukuria VS Code nuorodą
 ![Visual instructions how to intall Python extension](https://raw.githubusercontent.com/albertas/fdm2/master/images/disable_telemetry_for_vs_code.gif)
 
 
-### Užduočių atlikimas naudojant asmeninius kompiuterius (Windows)
-1. Įsidiekite [MS Visual Studio Code](https://code.visualstudio.com/Download).
+## Užduočių atlikimas naudojant asmeninius kompiuterius (Windows)
+1. Įsidiekite [MS Visual Studio Code](https://code.visualstudio.com/Download),
+   atsisiųsdami Windows vykdomąjį failą ir jį paleisdami.
 2. Įsidiekite Python plėtinį skirtą MS Visual Studio Code. Tai padaryti galite:
  - atsidarę MS Visual Studio Code, kairėje paspauskite Extensions mygtuką,
  - atsidariusioje paieškoje įrašykite Python
