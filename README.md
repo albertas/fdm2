@@ -11,6 +11,8 @@ Galima gauti papildomą 1 balą už pristatymą pratybų metu.
  - Tai gali būti Python bibliotekų palyginimas
  - Ar Jums aktulios Python bibliotekos funkcionalumo pristatymas.  
 
+Maksimalus užduoties balas mažinamas po 10% už kiekvieną pavėluotą savaitę atsiskaityti.
+
 ### Prisijungimas prie MIF kompiuterio
 1. Turite sužinoti savo studento pažymėjimo numerį lsp.lt svetainėje, jis taip pat pateiktas ant LSP pažymėjimo.
 2. Susikurti savo VU paskyrą: [id.vu.lt](https://id.vu.lt) puslapyje
