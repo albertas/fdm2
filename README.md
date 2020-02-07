@@ -22,5 +22,9 @@ Galima gauti papildomą 1 balą už pristatymą pratybų metu.
 
 ### Užduočių atlikimas naudojant asmeninius kompiuterius (Windows)
 1. Įsidiekite [MS Visual Studio Code](https://code.visualstudio.com/Download).
-2. Įsidiekite [Git bash](https://gitforwindows.org/).
+2. Įsidiekite Python plėtinį skirtą MS Visual Studio Code. Tai padaryti galite:
+ - atsidarę MS Visual Studio Code, kairėje paspauskite Extensions mygtuką,
+ - atsidariusioje paieškoje įrašykite Python
+ - pateiktuose rezultatuose prie plėtinio Python paspauskite Install mygtuką.
+3. Įsidiekite [Git bash](https://gitforwindows.org/).
     Git bash yra Linux Terminalo atitikmuo.
