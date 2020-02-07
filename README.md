@@ -21,7 +21,7 @@ Galima gauti papildomą 1 balą už pristatymą pratybų metu.
 
 ### Užduočių atlikimas naudojant MIF kompiuterius
 1. Naudodami MIF paskyrą prisijunkite prie:  **linux (vnc)**
-2. Įsidiekite [MS Visual Studio Code](https://code.visualstudio.com/Download) terminale įvykdidami šias komandas:
+2. Įsidiekite [MS Visual Studio Code](https://code.visualstudio.com/Download) terminale įvykdydami šias komandas:
 
 ```
 cd ~/Atsisiuntimai    # VS Code failai bus saugomi čia
