@@ -1,13 +1,12 @@
 # FDM Informatika II pratybos
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+#### Turinys
+[Užduotys](#užduotys)  
+[Užduočių atlikimas naudojant MIF kompiuterius](#mif_kompiuteriai)
+[Užduočių atlikimas naudojant asmeninius kompiuterius (Windows)](#asmeniniai_kompiuteriai)
 
 
-### [Užduotys](#užduotys)
+<a name="užduotys"/>
+### Užduotys
  - 1 užduotis (max 1.25 balo) atsiskaityti iki 2020-03-06.
  - 2 užduotis (max 1.25 balo) atsiskaityti iki 2020-04-03.
  - 3 užduotis (max 1.25 balo) atsiskaityti iki 2020-05-01.
@@ -21,6 +20,7 @@ Galima gauti papildomą 1 balą už pristatymą pratybų metu.
  - Tai gali būti Python bibliotekų palyginimas
  - Ar Jums aktulios Python bibliotekos funkcionalumo pristatymas.  
 
+<a name="mif_kompiuteriai"/>
 ## Užduočių atlikimas naudojant MIF kompiuterius
 ### Prisijungimas prie MIF kompiuterio
 1. Sužinokite savo studento pažymėjimo numerį [lsp.lt](https://lsp.lt) svetainėje, jis taip pat pateiktas ant Jūsų LSP pažymėjimo.
@@ -48,6 +48,7 @@ ln -s ./VSCode-linux-x64/bin/code ~/Desktop/VS_Code   # Sukuria VS Code nuorodą
 ![Visual instructions how to intall Python extension](https://raw.githubusercontent.com/albertas/fdm2/master/images/disable_telemetry_for_vs_code.gif)
 
 
+<a name="asmeniniai_kompiuteriai"/>
 ## Užduočių atlikimas naudojant asmeninius kompiuterius (Windows)
 1. Įsidiekite [Git bash](https://gitforwindows.org/), atsiųsdami ir įvykdydami
     [Windows Git bash vykdomąjį failą](https://github.com/git-for-windows/git/releases/tag/v2.25.0.windows.1),
