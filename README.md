@@ -34,10 +34,9 @@ ln -s ./VSCode-linux-x64/bin/code ~/Desktop/VS_Code   # Sukuria VS Code nuorodą
 
 ![Visual instructions how to intall Python extension](https://raw.githubusercontent.com/albertas/fdm2/master/images/install_python_extension_for_vs_code.gif)
 
+4. Išjunkite duomenų siuntimą Microsoft korporacijai:
 
-3. Nueikite į `File -> Preferences -> Settings -> Application -> Telemetry`  ir
-- uncheck  `Enable Telemetry`
-- uncheck  `Enable Crash Report`
+![Visual instructions how to intall Python extension](https://raw.githubusercontent.com/albertas/fdm2/master/images/disable_telemetry_for_vs_code.gif)
 
 
 ### Užduočių atlikimas naudojant asmeninius kompiuterius (Windows)
