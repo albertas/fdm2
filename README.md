@@ -41,11 +41,12 @@ ln -s ./VSCode-linux-x64/bin/code ~/Desktop/VS_Code   # Sukuria VS Code nuorodą
 
 
 ## Užduočių atlikimas naudojant asmeninius kompiuterius (Windows)
+3. Įsidiekite [Git bash](https://gitforwindows.org/), atsiųsdami ir įvykdydami
+    [Windows Git bash vykdomąjį failą](https://github.com/git-for-windows/git/releases/tag/v2.25.0.windows.1),
+    kuris pateiktas puslapio apačioje `assets` skiltyje. Git bash yra Linux Terminalo atitikmuo.
 1. Įsidiekite [MS Visual Studio Code](https://code.visualstudio.com/Download),
    atsisiųsdami Windows vykdomąjį failą ir jį paleisdami.
 2. Įsidiekite Python plėtinį skirtą MS Visual Studio Code. Tai padaryti galite:
  - atsidarę MS Visual Studio Code, kairėje paspauskite Extensions mygtuką,
  - atsidariusioje paieškoje įrašykite Python
  - pateiktuose rezultatuose prie plėtinio Python paspauskite Install mygtuką.
-3. Įsidiekite [Git bash](https://gitforwindows.org/).
-    Git bash yra Linux Terminalo atitikmuo.
