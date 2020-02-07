@@ -46,7 +46,7 @@ ln -s ./VSCode-linux-x64/bin/code ~/Desktop/VS_Code   # Sukuria VS Code nuorodą
     kuris pateiktas puslapio apačioje `assets` skiltyje. Git bash yra Linux Terminalo atitikmuo.
 
 2. Įsidiekite [MS Visual Studio Code](https://code.visualstudio.com),
-   atsisiųsdami [Windows VS Code](https://code.visualstudio.com/Download) vykdomąjį failą ir jį paleisdami.
+   atsisiųsdami [Windows VS Code vykdomąjį failą](https://code.visualstudio.com/Download) ir jį paleisdami.
 
 3. Įsidiekite `Python` plėtinį, skirtą MS Visual Studio Code:
 
