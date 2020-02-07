@@ -1,4 +1,12 @@
 # FDM Informatika II pratybos
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
+
 ### [Užduotys](#užduotys)
  - 1 užduotis (max 1.25 balo) atsiskaityti iki 2020-03-06.
  - 2 užduotis (max 1.25 balo) atsiskaityti iki 2020-04-03.
