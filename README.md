@@ -1,9 +1,9 @@
 # FDM Informatika II pratybos
 ##### Turinys
 
-[Užduotys](#užduotys)  
-[Užduočių atlikimas naudojant MIF kompiuterius](#mif_kompiuteriai)
-[Užduočių atlikimas naudojant asmeninius kompiuterius (Windows)](#asmeniniai_kompiuteriai)
+[**Užduotys**](#užduotys)<br>
+[**Užduočių atlikimas naudojant MIF kompiuterius**](#mif_kompiuteriai)<br>
+[**Užduočių atlikimas naudojant asmeninius kompiuterius (Windows)**](#asmeniniai_kompiuteriai)
 
 <a name="užduotys"/>
 
