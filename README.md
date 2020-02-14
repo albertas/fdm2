@@ -90,9 +90,10 @@ git clone https://github.com/albertas/fdm2 ~/Desktop/info2
 <a name="užduotys_pasikartojimui"/>
 
 ### Užduotys pasikartojimui
-Šios trys užduotys apima viską, ką turėjote išmokti pirmojo (Informatika I) semestro metu:
+Šios užduotys apima viską, ką turėjote išmokti pirmojo (Informatika I) semestro metu:
  1. [Kintamjieji](https://github.com/albertas/fdm2/blob/master/revision_tasks/1_variables.ipynb)
  2. [Sąlygos sakiniai ir ciklai](https://github.com/albertas/fdm2/blob/master/revision_tasks/2_conditions_and_loops.ipynb)
  3. [Funkcijos](https://github.com/albertas/fdm2/blob/master/revision_tasks/3_functions.ipynb)
+ 4. Darbas su failais
 
 Šios pasikartojimo užduotys yra išsaugotos `~/Desktop/info2/revision_tasks/` kataloge, jas galite atsidaryti ir vykdyti naudodami Visual Studio Code. 
