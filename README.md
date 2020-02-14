@@ -3,7 +3,7 @@
 
 [Užduotys](#užduotys)<br>
 [Užduočių atlikimas naudojant MIF kompiuterius](#mif_kompiuteriai)<br>
-[Užduočių atlikimas naudojant asmeninius kompiuterius (Windows)](#asmeniniai_kompiuteriai)
+[Užduočių atlikimas naudojant asmeninius kompiuterius (Windows)](#asmeniniai_kompiuteriai)<br>
 [Užduotys pasikartojimui](#užduotys_pasikartojimui)<br>
 
 <a name="užduotys"/>
