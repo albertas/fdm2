@@ -36,7 +36,7 @@ Galima gauti papildomą 1 balą už pristatymą pratybų metu.
 1. Terminale įvykdydami šias komandas įsidiegsite [MS Visual Studio Code](https://code.visualstudio.com/Download):
 
 ```
-cd ~/Atsisiuntimai    # VS Code failai bus saugomi čia
+cd ~/Desktop     # VS Code failai bus atsiųsti ir išsaugoti ant Desktop
 wget https://az764295.vo.msecnd.net/stable/ae08d5460b5a45169385ff3fd44208f431992451/code-stable-1580986866.tar.gz
 tar -xzvf code-stable-1580986866.tar.gz    # Išskleidžia atsisiųstą failą
 ln -s ./VSCode-linux-x64/bin/code ~/Desktop/VS_Code   # Sukuria VS Code nuorodą ant Desktop'o
