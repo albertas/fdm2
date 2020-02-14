@@ -4,6 +4,7 @@
 [Užduotys](#užduotys)<br>
 [Užduočių atlikimas naudojant MIF kompiuterius](#mif_kompiuteriai)<br>
 [Užduočių atlikimas naudojant asmeninius kompiuterius (Windows)](#asmeniniai_kompiuteriai)
+[Užduotys pasikartojimui](#užduotys_pasikartojimui)<br>
 
 <a name="užduotys"/>
 
@@ -84,3 +85,14 @@ git clone https://github.com/albertas/fdm2 ~/Desktop/info2
 6. Atsidarykite užduočių failą, naudodami VS Code:
 
 ![Open task file using VS Code](https://raw.githubusercontent.com/albertas/fdm2/master/images/open_task_file.gif)
+
+
+<a name="užduotys_pasikartojimui"/>
+
+### Užduotys pasikartojimui
+Šios trys užduotys apima viską, ką turėjote išmokti pirmojo (Informatika I) semestro metu:
+ 1. [Kintamjieji](https://github.com/albertas/fdm2/blob/master/revision_tasks/1_variables.ipynb)
+ 2. [Sąlygos sakiniai ir ciklai](https://github.com/albertas/fdm2/blob/master/revision_tasks/2_conditions_and_loops.ipynb)
+ 3. [Funkcijos](https://github.com/albertas/fdm2/blob/master/revision_tasks/3_functions.ipynb)
+
+Šios pasikartojimo užduotys yra išsaugotos `~/Desktop/info2/revision_tasks/` kataloge, jas galite atsidaryti ir vykdyti naudodami Visual Studio Code. 
