@@ -9,7 +9,7 @@
 <a name="užduotys"/>
 
 ### Užduotys
- - 1 užduotis (max 1.25 balo) atsiskaityti iki 2020-03-06.
+ - [1 užduotis](https://github.com/albertas/fdm2/blob/master/tasks/1_oop.ipynb) (max 1.25 balo) atsiskaityti iki 2020-03-06.
  - 2 užduotis (max 1.25 balo) atsiskaityti iki 2020-04-03.
  - 3 užduotis (max 1.25 balo) atsiskaityti iki 2020-05-01.
  - 4 užduotis (max 1.25 balo) atsiskaityti iki 2020-05-22.
