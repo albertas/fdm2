@@ -94,7 +94,7 @@ git clone https://github.com/albertas/fdm2 ~/Desktop/info2
 Terminale įvykdykite komandas:
  1. cd ~/Desktop
  2. git clone https://github.com/albertas/fdm2 ~/Desktop/info2
- 3. python -m venv venv
+ 3. python3 -m venv venv
  4. venv/bin/pip install jupyter
  5. venv/bin/jupyter-notebook ~/Desktop/info2/tasks/1_oop.ipynb
 
