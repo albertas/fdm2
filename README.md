@@ -100,7 +100,7 @@ Terminale įvykdykite komandas:
 
 <a name="užduotys_pasikartojimui"/>
 
-### Užduotys pasikartojimui
+## Užduotys pasikartojimui
 Šios užduotys apima viską, ką turėjote išmokti pirmojo (Informatika I) semestro metu:
  1. [Kintamjieji](https://github.com/albertas/fdm2/blob/master/revision_tasks/1_variables.ipynb)
  2. [Sąlygos sakiniai ir ciklai](https://github.com/albertas/fdm2/blob/master/revision_tasks/2_conditions_and_loops.ipynb)
