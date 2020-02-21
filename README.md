@@ -82,13 +82,21 @@ git clone https://github.com/albertas/fdm2 ~/Desktop/info2
 
 <a name="jupyter_notebook"/>
 
-## Užduočių atlikimas be VS Code redaktoriaus
+## Užduočių atlikimas be VS Code redaktoriaus Linux aplinkoje:
 Terminale įvykdykite komandas:
  1. cd ~/Desktop
  2. git clone https://github.com/albertas/fdm2 ~/Desktop/info2
  3. python3 -m venv venv
- 4. venv/bin/pip install jupyter requests
+ 4. venv/bin/pip install wheel jupyter requests
  5. venv/bin/jupyter-notebook ~/Desktop/info2/tasks/1_oop.ipynb
+
+## Užduočių atlikimas be VS Code redaktoriaus Windows aplinkoje:
+Git Bash terminale įvykdykite komandas:
+ 1. cd ~/Desktop
+ 2. git clone https://github.com/albertas/fdm2 ~/Desktop/info2
+ 3. python3 -m venv venv
+ 4. venv/Scripts/pip install wheel jupyter requests
+ 5. venv/Scripts/jupyter-notebook ~/Desktop/info2/tasks/1_oop.ipynb
 
 <a name="užduotys_pasikartojimui"/>
 
