@@ -18,7 +18,7 @@ def show_assignment1(username=None):
         print(f'ERROR: could not retrieve Assignment Nr 1, because {exc}')
 
 
-def check_assignment1(uesrname=None):
+def check_assignment1(username=None):
     if not username:
         username = getpass.getuser()
     try:
