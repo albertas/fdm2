@@ -3,7 +3,7 @@ import getpass
 import pickle
 
 
-def show_assignment1(uesrname=None):
+def show_assignment1(username=None):
     if not username:
         username = getpass.getuser()
     try:
