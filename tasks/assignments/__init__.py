@@ -2,13 +2,13 @@ import __main__
 import getpass
 import pickle
 
-username = getpass.getuser()
 
-
-def show_assignment1():
+def show_assignment1(uesrname=None):
+    if not username:
+        username = getpass.getuser()
     try:
         import requests
-        resp = requests.get(f'http://python.lt/api/oop/1/get/{username}/')
+        resp = requests.post(f'https://python.lt/api/oop/1/get/{username}/')
         if resp.ok:
             print(resp.text)
         else:
@@ -18,10 +18,15 @@ def show_assignment1():
         print(f'ERROR: could not retrieve Assignment Nr 1, because {exc}')
 
 
-def check_assignment1():
+def check_assignment1(uesrname=None):
+    if not username:
+        username = getpass.getuser()
     try:
         import requests
-        resp = requests.post(f'http://python.lt/api/oop/1/check/{username}/', data={'objects': pickle.dumps(__main__)})
+        import json
+        objects = {e: getattr(__main__, e) for e in dir(__main__) if not e.startswith('_') and e not in ['In', 'Out', 'exit', 'get_ipython', 'quit']}
+
+        resp = requests.post(f'https://python.lt/api/oop/1/check/{username}/', data={'objects': pickle.dumps(objects)})
 
         if resp.ok:
             print(resp.text)
