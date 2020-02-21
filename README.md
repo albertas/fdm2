@@ -95,7 +95,7 @@ Terminale įvykdykite komandas:
  1. cd ~/Desktop
  2. git clone https://github.com/albertas/fdm2 ~/Desktop/info2
  3. python3 -m venv venv
- 4. venv/bin/pip install jupyter
+ 4. venv/bin/pip install jupyter requests
  5. venv/bin/jupyter-notebook ~/Desktop/info2/tasks/1_oop.ipynb
 
 <a name="užduotys_pasikartojimui"/>
