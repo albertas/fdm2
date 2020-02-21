@@ -4,6 +4,7 @@
 [Užduotys](#užduotys)<br>
 [Užduočių atlikimas naudojant MIF kompiuterius](#mif_kompiuteriai)<br>
 [Užduočių atlikimas naudojant asmeninius kompiuterius (Windows)](#asmeniniai_kompiuteriai)<br>
+[Užduočių atlikimas be VS Code redaktoriaus](#jupyter_notebook)<br>
 [Užduotys pasikartojimui](#užduotys_pasikartojimui)<br>
 
 <a name="užduotys"/>
@@ -86,6 +87,16 @@ git clone https://github.com/albertas/fdm2 ~/Desktop/info2
 
 ![Open task file using VS Code](https://raw.githubusercontent.com/albertas/fdm2/master/images/open_task_file.gif)
 
+
+<a name="jupyter_notebook"/>
+
+## Užduočių atlikimas be VS Code redaktoriaus
+Terminale įvykdykite komandas:
+ 1. cd ~/Desktop
+ 2. git clone https://github.com/albertas/fdm2 ~/Desktop/info2
+ 3. python -m venv venv
+ 4. venv/bin/pip install jupyter
+ 5. venv/bin/jupyter-notebook ~/Desktop/info2/tasks/1_oop.ipynb
 
 <a name="užduotys_pasikartojimui"/>
 
