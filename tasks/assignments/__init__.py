@@ -47,7 +47,7 @@ def show_assignment2(username=None):
         username = getpass.getuser()
     try:
         import requests
-        resp = requests.post(f'https://python.lt/api/tests/2/get/{username}/')
+        resp = requests.post(f'https://python.lt/api/oop/2/get/{username}/')
         if resp.ok:
             print(resp.text)
         else:
