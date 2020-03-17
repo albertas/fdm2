@@ -60,22 +60,28 @@ git clone https://github.com/albertas/fdm2 ~/Desktop/info2
 <a name="asmeniniai_kompiuteriai"/>
 
 ## Užduočių atlikimas naudojant asmeninius kompiuterius (Windows)
-1. Įsidiekite [Git bash](https://gitforwindows.org/), atsiųsdami ir įvykdydami
+1. Įsidiekite [Python](https://www.python.org/downloads/). Įsitikinkite, kad
+   diegiant yra pasirinkta *Add Python to environement variables*.
+2. Įsidiekite [Git bash](https://gitforwindows.org/), atsiųsdami ir įvykdydami
    [Windows Git bash vykdomąjį failą](https://github.com/git-for-windows/git/releases/tag/v2.25.0.windows.1),
    kuris pateiktas puslapio apačioje `assets` skiltyje. Git bash yra Linux Terminalo atitikmuo.
-2. Įsidiekite [MS Visual Studio Code](https://code.visualstudio.com),
+3. Atsidarę Git bash įvykdykite šią komandą, kad būtų įdiegti Python paketai:
+    ```
+pip install --uesr requests jupyter dill
+    ```
+4. Įsidiekite [MS Visual Studio Code](https://code.visualstudio.com),
    atsisiųsdami [Windows VS Code vykdomąjį failą](https://code.visualstudio.com/Download) ir jį paleisdami.
-3. Įsidiekite `Python` plėtinį, skirtą MS Visual Studio Code:
+5. Įsidiekite `Python` plėtinį, skirtą MS Visual Studio Code:
 
 ![Visual instructions how to intall Python extension](https://raw.githubusercontent.com/albertas/fdm2/master/images/install_python_extension_for_vs_code.gif)
 
-4. Nusiklonuokite užduočių failus, Git Bash terminale įvykdydami:
+6. Nusiklonuokite užduočių failus, Git Bash terminale įvykdydami:
 
 ```
 git clone https://github.com/albertas/fdm2 ~/Desktop/info2
 ```
 
-5. Atsidarykite užduočių failą, naudodami VS Code:
+7. Atsidarykite užduočių failą, naudodami VS Code:
 
 ![Open task file using VS Code](https://raw.githubusercontent.com/albertas/fdm2/master/images/open_task_file.gif)
 
