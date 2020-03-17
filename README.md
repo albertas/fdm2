@@ -68,7 +68,7 @@ git clone https://github.com/albertas/fdm2 ~/Desktop/info2
 3. Atsidarę Git bash įvykdykite šią komandą, kad būtų įdiegti Python paketai:
 
 ```
-pip install --uesr requests jupyter dill
+pip install --user requests jupyter dill
 ```
 
 4. Įsidiekite [MS Visual Studio Code](https://code.visualstudio.com),
