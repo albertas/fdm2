@@ -66,9 +66,11 @@ git clone https://github.com/albertas/fdm2 ~/Desktop/info2
    [Windows Git bash vykdomąjį failą](https://github.com/git-for-windows/git/releases/tag/v2.25.0.windows.1),
    kuris pateiktas puslapio apačioje `assets` skiltyje. Git bash yra Linux Terminalo atitikmuo.
 3. Atsidarę Git bash įvykdykite šią komandą, kad būtų įdiegti Python paketai:
-    ```
+
+```
 pip install --uesr requests jupyter dill
-    ```
+```
+
 4. Įsidiekite [MS Visual Studio Code](https://code.visualstudio.com),
    atsisiųsdami [Windows VS Code vykdomąjį failą](https://code.visualstudio.com/Download) ir jį paleisdami.
 5. Įsidiekite `Python` plėtinį, skirtą MS Visual Studio Code:
