@@ -12,8 +12,8 @@
 ### Užduotys
  - [1 užduotis](https://github.com/albertas/fdm2/blob/master/tasks/1_oop.ipynb) (max 1.25 balo) atsiskaityti iki 2020-03-06 (pratęsta iki 2020-03-31).
  - [2 užduotis](https://github.com/albertas/fdm2/blob/master/tasks/2_tests.ipynb) (max 1.25 balo) atsiskaityti iki 2020-04-03 (pratęsta iki 2020-04-19).
- - 3 užduotis (max 1.25 balo) atsiskaityti iki 2020-05-01.
- - 4 užduotis (max 1.25 balo) atsiskaityti iki 2020-05-22.
+ - [3 užduotis](https://github.com/albertas/fdm2/blob/master/tasks/3_threads.ipynb) (max 1.25 balo) atsiskaityti iki 2020-05-01 (pratęsta iki 2020-05-24).
+ - [4 užduotis](https://github.com/albertas/fdm2/blob/master/tasks/4_gui.ipynb) (max 1.25 balo) atsiskaityti iki 2020-05-24.
 
 Maksimalus užduoties balas mažinamas po 10% už kiekvieną pavėluotą savaitę atsiskaityti.
 
