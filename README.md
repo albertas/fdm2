@@ -12,8 +12,8 @@
 ### Užduotys
 #### Atnaujinta
  - [1 užduotis](https://github.com/albertas/fdm2/blob/master/tasks/1_oop.ipynb) (max 1.67 balo) atsiskaityti iki 2021-03-31.
- - [2 užduotis](https://github.com/albertas/fdm2/blob/master/tasks/2_tests.ipynb) (max 1.67 balo) atsiskaityti iki 2021-04-19.
- - [3 užduotis](https://github.com/albertas/fdm2/blob/master/tasks/3_threads.ipynb) (max 1.67 balo) atsiskaityti iki 2021-05-24.
+ - [2 užduotis](https://github.com/albertas/fdm2/blob/master/tasks/2_tests.ipynb) (max 1.67 balo) atsiskaityti iki 2021-04-15.
+ - [3 užduotis](https://github.com/albertas/fdm2/blob/master/tasks/3_threads.ipynb) (max 1.67 balo) atsiskaityti iki 2021-05-26.
 
 Maksimalus užduoties balas mažinamas po 10% už kiekvieną pavėluotą savaitę atsiskaityti.
 
